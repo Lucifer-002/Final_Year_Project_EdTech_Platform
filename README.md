@@ -145,3 +145,4 @@ For detailed API documentation and endpoints, refer to the [API Documentation](/
 
 ## Product Trailer : StudyNotion ==> An one stop platform for students and educator
 
+https://github.com/Lucifer-002/Final_Year_Project_EdTech_Platform/assets/70974246/8055d9d8-1edc-4c67-adcf-76636315358a
